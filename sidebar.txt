@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zia:home|Door43 (zia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zia|d43-zia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zia/archive/master.zip|d43-zia.zip]]
+
+**Recent Changes**
+{{changes>ns = zia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zia|Ethnologue data]]
+
